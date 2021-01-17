@@ -26,9 +26,9 @@
       var buildUrl = "Build";
       var loaderUrl = buildUrl + "/buildInd.loader.js";
       var config = {
-        dataUrl: buildUrl + "/buildInd.data.br",
-        frameworkUrl: buildUrl + "/buildInd.framework.js.br",
-        codeUrl: buildUrl + "/buildInd.wasm.br",
+        dataUrl: buildUrl + "/buildInd.data",
+        frameworkUrl: buildUrl + "/buildInd.framework.js",
+        codeUrl: buildUrl + "/buildInd.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "Industria",
